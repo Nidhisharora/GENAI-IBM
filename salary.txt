@@ -1,0 +1,5 @@
+Rohan : 25000 
+Rahul : 67000 
+Ram : 44000 
+Karan : 93000 
+Bhanghu : 88000
